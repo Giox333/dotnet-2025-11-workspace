@@ -1,0 +1,14 @@
+C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj010\obj\Debug\net10.0\prj010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj010\obj\Debug\net10.0\prj010.AssemblyInfoInputs.cache
+C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj010\obj\Debug\net10.0\prj010.AssemblyInfo.cs
+C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj010\obj\Debug\net10.0\prj010.csproj.CoreCompileInputs.cache
+C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj010\bin\Debug\net10.0\prj010.exe
+C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj010\bin\Debug\net10.0\prj010.deps.json
+C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj010\bin\Debug\net10.0\prj010.runtimeconfig.json
+C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj010\bin\Debug\net10.0\prj010.dll
+C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj010\bin\Debug\net10.0\prj010.pdb
+C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj010\obj\Debug\net10.0\prj010.dll
+C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj010\obj\Debug\net10.0\refint\prj010.dll
+C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj010\obj\Debug\net10.0\prj010.pdb
+C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj010\obj\Debug\net10.0\prj010.genruntimeconfig.cache
+C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj010\obj\Debug\net10.0\ref\prj010.dll
