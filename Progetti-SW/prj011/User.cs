@@ -7,7 +7,7 @@ public class User
 
     public User()
     {
-        Username = "Palle";
+        Username = "User1";
         Email = "test@gmail.com";
         Phone = new Phone();
     }
