@@ -2,7 +2,7 @@
 
 class Program
 {
-    static void Main(string[] args)
+    /* static void Main(string[] args)
     {
         Lettera lettera1 = new Lettera();
         System.Console.WriteLine(lettera1);
@@ -16,7 +16,7 @@ class Program
         centrale1.RiceviLettera(lettera2);
         centrale1.RiceviLettera(new Lettera());
         centrale1.RiceviLettera(new LetteraPrioritaria("Sissi","Mario",false,2));
-        centrale1.RiceviLettera(new LetteraPrioritaria("Sissi","Luigi",true,2)); */
+        centrale1.RiceviLettera(new LetteraPrioritaria("Sissi","Luigi",true,2)); 
         centrale1.RiceviLettera(new Lettera("aa","bb",false));
         centrale1.RiceviLettera(new Lettera("cc","bb",false));
         centrale1.RiceviLettera(new LetteraPrioritaria("dd","bb",false,3));
@@ -28,5 +28,5 @@ class Program
 
         System.Console.WriteLine("\n" + centrale1);
         System.Console.WriteLine("\n" + centrale1.SmistaLettera());
-    }
+    } */
 }

@@ -12,3 +12,4 @@ C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj00
 C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj002\obj\Debug\net10.0\prj002.pdb
 C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj002\obj\Debug\net10.0\prj002.genruntimeconfig.cache
 C:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj002\obj\Debug\net10.0\ref\prj002.dll
+c:\Users\gioxp\Desktop\programmazione\dotnet-2025-11-workspace\Progetti-SW\prj002\obj\Debug\net10.0\prj002.sourcelink.json

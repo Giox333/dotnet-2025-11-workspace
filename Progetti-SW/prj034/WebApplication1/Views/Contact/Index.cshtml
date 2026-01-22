@@ -1,0 +1,24 @@
+@{
+    int value = 2 + 3;
+    dynamic? jsonData = ViewBag.JsonData;
+    List<string> names = new List<string>(){"gg" , "ll" , "pp"};
+}
+
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Sezione dei contatti</h1>
+        </div>
+        <div class="col-md-12">
+            <h1>@jsonData</h1>
+            <p>@value</p>
+
+            @foreach (string name in names)
+            {
+                <li>@name</li>
+            }
+        </div>
+    </div>
+</div>

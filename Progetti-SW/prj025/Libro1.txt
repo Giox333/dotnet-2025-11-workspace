@@ -1,0 +1,10 @@
+ISBN = 61215351, Title = The Fellowship of the Ring (The Lord of the Rings, #1)J.R.R. Tolkien, Autore = Author, Anno di publicazione = 1954
+ISBN = 33, Title = The Lord of the RingsJ.R.R. Tolkien, Autore = Author, Anno di publicazione = 1954
+ISBN = 61215372, Title = The Two Towers (The Lord of the Rings, #2)J.R.R. Tolkien, Autore = Author, Anno di publicazione = 1954
+ISBN = 61215384, Title = The Return of the King (The Lord of the Rings, #3)J.R.R. Tolkien, Autore = Author, Anno di publicazione = 1955
+ISBN = 119, Title = The Art of The Fellowship of the RingGary Russell, Autore = Author, Anno di publicazione = 2002
+ISBN = 30, Title = J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the RingsJ.R.R. Tolkien, Autore = Author, Anno di publicazione = 1954
+ISBN = 36, Title = The Lord of the Rings: Weapons and WarfareChris   SmithChristopher  LeeRichard Taylor, Autore = Author, Anno di publicazione = 2003
+ISBN = 20310621, Title = The Lord of the Rings: The Two Towers (The Lord of the Rings, #2)Brian SibleyMichael BakewellJ.R.R. Tolkien, Autore = Author, Anno di publicazione = unknown
+ISBN = 15222, Title = The Lord of the Rings: The Fellowship of the Ring: Visual CompanionJane JohnsonJude Fisher, Autore = Author, Anno di publicazione = 2001
+ISBN = 201084, Title = The Fellowship of the Ring (BBC Dramatization of The Lord of the Rings, #1)Brian SibleyMichael BakewellJ.R.R. Tolkien, Autore = Author, Anno di publicazione = 1981

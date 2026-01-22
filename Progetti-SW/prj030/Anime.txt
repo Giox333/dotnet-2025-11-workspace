@@ -1,0 +1,30 @@
+Titolo = Sousou no Frieren, Rank = 1, Score = 9,29, Tipo = TV (28 eps) Periodo di rilascio = Sep 2023 - Mar 2024, Membri = 1267613
+Titolo = Chainsaw Man Movie: Reze-hen, Rank = 2, Score = 9,18, Tipo = Movie (1 eps) Periodo di rilascio = Sep 2025 - Sep 2025, Membri = 280128
+Titolo = Fullmetal Alchemist: Brotherhood, Rank = 3, Score = 9,1, Tipo = TV (64 eps) Periodo di rilascio = Apr 2009 - Jul 2010, Membri = 3601899
+Titolo = Steins;Gate, Rank = 4, Score = 9,07, Tipo = TV (24 eps) Periodo di rilascio = Apr 2011 - Sep 2011, Membri = 2755046
+Titolo = Kingdom 6th Season, Rank = 5, Score = 9,06, Tipo = TV (? eps) Periodo di rilascio = Oct 2025 -, Membri = 25243
+Titolo = Shingeki no Kyojin Season 3 Part 2, Rank = 6, Score = 9,05, Tipo = TV (10 eps) Periodo di rilascio = Apr 2019 - Jul 2019, Membri = 2519511
+Titolo = Gintama: The Final, Rank = 7, Score = 9,05, Tipo = Movie (1 eps) Periodo di rilascio = Jan 2021 - Jan 2021, Membri = 177049
+Titolo = Gintama°, Rank = 8, Score = 9,05, Tipo = TV (51 eps) Periodo di rilascio = Apr 2015 - Mar 2016, Membri = 679971
+Titolo = Hunter x Hunter (2011), Rank = 9, Score = 9,03, Tipo = TV (148 eps) Periodo di rilascio = Oct 2011 - Sep 2014, Membri = 3106643
+Titolo = Ginga Eiyuu Densetsu, Rank = 10, Score = 9,02, Tipo = OVA (110 eps) Periodo di rilascio = Jan 1988 - Mar 1997, Membri = 353628
+Titolo = Gintama', Rank = 11, Score = 9,02, Tipo = TV (51 eps) Periodo di rilascio = Apr 2011 - Mar 2012, Membri = 601873
+Titolo = Gintama': Enchousen, Rank = 12, Score = 9,02, Tipo = TV (13 eps) Periodo di rilascio = Oct 2012 - Mar 2013, Membri = 352078
+Titolo = One Piece Fan Letter, Rank = 13, Score = 9,02, Tipo = TV Special (1 eps) Periodo di rilascio = Oct 2024 - Oct 2024, Membri = 134950
+Titolo = Bleach: Sennen Kessen-hen, Rank = 14, Score = 8,99, Tipo = TV (13 eps) Periodo di rilascio = Oct 2022 - Dec 2022, Membri = 670765
+Titolo = Gintama., Rank = 15, Score = 8,98, Tipo = TV (12 eps) Periodo di rilascio = Jan 2017 - Mar 2017, Membri = 342140
+Titolo = Kaguya-sama wa Kokurasetai: Ultra Romantic, Rank = 16, Score = 8,96, Tipo = TV (13 eps) Periodo di rilascio = Apr 2022 - Jun 2022, Membri = 1070782
+Titolo = Fruits Basket: The Final, Rank = 17, Score = 8,94, Tipo = TV (13 eps) Periodo di rilascio = Apr 2021 - Jun 2021, Membri = 546852
+Titolo = Clannad: After Story, Rank = 18, Score = 8,93, Tipo = TV (24 eps) Periodo di rilascio = Oct 2008 - Mar 2009, Membri = 1265257
+Titolo = Gintama, Rank = 19, Score = 8,93, Tipo = TV (201 eps) Periodo di rilascio = Apr 2006 - Mar 2010, Membri = 1135480
+Titolo = Koe no Katachi, Rank = 20, Score = 8,93, Tipo = Movie (1 eps) Periodo di rilascio = Sep 2016 - Sep 2016, Membri = 2546775
+Titolo = Kusuriya no Hitorigoto 2nd Season, Rank = 21, Score = 8,91, Tipo = TV (24 eps) Periodo di rilascio = Jan 2025 - Jul 2025, Membri = 428951
+Titolo = Code Geass: Hangyaku no Lelouch R2, Rank = 22, Score = 8,91, Tipo = TV (25 eps) Periodo di rilascio = Apr 2008 - Sep 2008, Membri = 1913696
+Titolo = 3-gatsu no Lion 2nd Season, Rank = 23, Score = 8,9, Tipo = TV (22 eps) Periodo di rilascio = Oct 2017 - Mar 2018, Membri = 431502
+Titolo = Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare, Rank = 24, Score = 8,89, Tipo = Movie (1 eps) Periodo di rilascio = Jul 2013 - Jul 2013, Membri = 258666
+Titolo = Monster, Rank = 25, Score = 8,89, Tipo = TV (74 eps) Periodo di rilascio = Apr 2004 - Sep 2005, Membri = 1281127
+Titolo = Boku no Hero Academia: Final Season, Rank = 26, Score = 8,88, Tipo = TV (11 eps) Periodo di rilascio = Oct 2025 - Dec 2025, Membri = 198851
+Titolo = Gintama. Shirogane no Tamashii-hen - Kouhan-sen, Rank = 27, Score = 8,88, Tipo = TV (14 eps) Periodo di rilascio = Jul 2018 - Oct 2018, Membri = 221202
+Titolo = Kusuriya no Hitorigoto, Rank = 28, Score = 8,86, Tipo = TV (24 eps) Periodo di rilascio = Oct 2023 - Mar 2024, Membri = 754468
+Titolo = Owarimonogatari 2nd Season, Rank = 29, Score = 8,86, Tipo = TV Special (7 eps) Periodo di rilascio = Aug 2017 - Aug 2017, Membri = 429721
+Titolo = Shingeki no Kyojin: The Final Season - Kanketsu-hen, Rank 

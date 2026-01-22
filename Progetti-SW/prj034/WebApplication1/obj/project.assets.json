@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "RestSharp/113.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/RestSharp.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/RestSharp.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestSharp/113.0.0": {
+      "sha512": "ijR2XOerzv8+rzHbC1pSkf5pEWw3JiqgtvJkJqL5XBwuNfokTNCt0SGV0xfbQe1Ty1Oc/WyshGP+L7x+j6m/mw==",
+      "type": "package",
+      "path": "restsharp/113.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net10.0/RestSharp.dll",
+        "lib/net10.0/RestSharp.xml",
+        "lib/net471/RestSharp.dll",
+        "lib/net471/RestSharp.xml",
+        "lib/net48/RestSharp.dll",
+        "lib/net48/RestSharp.xml",
+        "lib/net8.0/RestSharp.dll",
+        "lib/net8.0/RestSharp.xml",
+        "lib/net9.0/RestSharp.dll",
+        "lib/net9.0/RestSharp.xml",
+        "lib/netstandard2.0/RestSharp.dll",
+        "lib/netstandard2.0/RestSharp.xml",
+        "restsharp.113.0.0.nupkg.sha512",
+        "restsharp.nuspec",
+        "restsharp.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "RestSharp >= 113.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gioxp\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\gioxp\\Desktop\\programmazione\\dotnet-2025-11-workspace\\Progetti-SW\\prj034\\WebApplication1\\WebApplication1.csproj",
+      "projectName": "WebApplication1",
+      "projectPath": "C:\\Users\\gioxp\\Desktop\\programmazione\\dotnet-2025-11-workspace\\Progetti-SW\\prj034\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\gioxp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gioxp\\Desktop\\programmazione\\dotnet-2025-11-workspace\\Progetti-SW\\prj034\\WebApplication1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gioxp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "RestSharp": {
+            "target": "Package",
+            "version": "[113.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.11, 9.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[9.0.11, 9.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.11, 9.0.11]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[9.0.11, 9.0.11]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

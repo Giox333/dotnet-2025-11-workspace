@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jaTQ5TXiQLA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gioxp\\Desktop\\programmazione\\dotnet-2025-11-workspace\\Progetti-SW\\prj026\\prj026.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gioxp\\.nuget\\packages\\restsharp\\112.1.1-alpha.0.19\\restsharp.112.1.1-alpha.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

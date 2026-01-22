@@ -1,0 +1,127 @@
+SPECIFICHE FUNZIONI - COSA DEVONO FARE
+ CLASSE MEMBRO
+VerificaAbbonamentoAttivo() → Controlla se il membro ha un abbonamento valido (non scaduto)
+
+CalcolaEta() → Calcola l'età attuale del membro dalla data di nascita
+
+GetGiorniIscrizione() → Calcola da quanti giorni è iscritto alla palestra
+
+PuoiPrenotareCorso() → Verifica se può prenotare corsi (abbonamento attivo + età appropriata)
+
+
+CLASSE PAGAMENTO
+EseguiPagamento() →
+
+Contrassegna il pagamento come "pagato"
+
+Registra la data corrente
+
+Aggiorna lo stato dell'abbonamento collegato
+
+VerificaScadenzaPagamento() → Controlla se il pagamento è in ritardo
+
+GeneraRicevuta() → Crea una stringa con i dettagli del pagamento per la stampa
+
+
+
+CLASSE ABBONAMENTO
+IsScaduto() → Controlla se la data di scadenza è passata
+
+CalcolaGiorniRimanenti() → Calcola quanti giorni mancano alla scadenza
+
+Rinnova() →
+
+Crea un nuovo abbonamento con data di inizio = scadenza precedente
+
+Aggiorna la data di scadenza (+1 mese/anno)
+
+Genera un nuovo pagamento in sospeso
+
+
+
+CLASSE CORSO
+VerificaDisponibilità() → Controlla se ci sono posti liberi
+
+AggiungiPartecipante() →
+
+Verifica disponibilità
+
+Aggiunge il membro alla lista partecipanti
+
+Riduce i posti disponibili
+
+RimuoviPartecipante() →
+
+Rimuove il membro dalla lista
+
+Aumenta i posti disponibili
+
+
+
+ CLASSE ISTRUTTORE
+GetCorsiInsegnati() → Restituisce lista corsi che tiene
+
+VerificaDisponibilitàOrario() → Controlla se è libero in un orario specifico
+
+CalcolaOreLavorative() → Calcola ore totali di insegnamento in un periodo
+
+
+
+CLASSE SCHEDA ALLENAMENTO
+AggiungiEsercizio() →
+
+Aggiunge un esercizio alla scheda
+
+Verifica che non superi il numero massimo di esercizi
+
+RimuoviEsercizio() → Rimuove un esercizio specifico
+
+CalcolaDurataTotale() → Calcola tempo totale della scheda (serie × recupero)
+
+GeneraReport() → Crea un riepilogo della scheda
+
+
+
+ CLASSE PARTECIPAZIONE CORSO
+RegistraPresenza() →
+
+Contrassegna il membro come "presente"
+
+Registra l'orario di ingresso
+
+Aggiorna le statistiche partecipazione
+
+VerificaFrequenza() → Calcola la percentuale di presenza del membro
+
+
+
+ CLASSE ESERCIZIO
+CalcolaCaricoLavoro() → Calcola il carico totale (serie × ripetizioni)
+
+VerificaDifficoltà() → Classifica l'esercizio come Facile/Medio/Difficile
+
+GetIstruzioni() → Restituisce le istruzioni dettagliate per l'esecuzione
+
+
+
+CLASSE PALESTRA (GESTIONE)
+GeneraReportMensile() →
+
+Calcola incassi totali del mese
+
+Conta nuovi iscritti
+
+Calcola frequenza media corsi
+
+InviaPromemoriaScadenza() → Invia notifiche per abbonamenti in scadenza
+
+VerificaCapienzaCorsi() → Controlla se ci sono corsi sovraffollati
+
+
+
+ CLASSE NOTIFICHE
+InviaPromemoriaPagamento() → Notifica pagamenti in ritardo
+
+InviaPromemoriaCorso() → Ricorda il corso del giorno stesso
+
+InviaOffertaRinnovo() → Invio offerte per rinnovo abbonamento

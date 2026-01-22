@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    dynamic? jsonResponse = ViewBag.ris;
+
+    Dragon value = ViewBag.Ris;
+
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <span style="color:red">First Program</span>
+        </div>
+    </div>
+</div>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Benvenuto nel primo tutorial di ASP MVC</p>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>@value.name</h1>
+            <h1>@value.gender</h1>
+            <h1>@value.description</h1>
+
+            <div class="card">
+            
+            </div>
+        </div>
+    </div>
+</div>

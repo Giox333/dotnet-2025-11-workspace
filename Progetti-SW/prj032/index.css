@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+.container{
+    border: 1px solid white;
+    color: white;
+    height: 100px;
+    width: 500px;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.searchButton{
+    padding: auto;
+    width: 470px;
+    margin-top: 10px;
+}
+
+.cardContainer{
+    color: #fff;
+}
+
+.row{
+    margin-top: 20px;
+    border: 1px solid white;
+}
+
+.image-fluid{
+    max-width: 100px;
+    max-height: 100px;
+}
